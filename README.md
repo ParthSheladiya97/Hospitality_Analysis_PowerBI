@@ -22,17 +22,17 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ## Overall Analysis
 <p align="center">
-    <img src="https://github.com/ParthSheladiya97/Hospitality_Analysis_PowerBI/blob/main/Resources/Overall%20Analysis.png" width="700">
+    <img src="https://github.com/ParthSheladiya97/Hospitality_Analysis_PowerBI/blob/main/Resources/Overall_Analysis_view.png" width="700">
 </p>
 
 ## Monthly Analysis
 <p align="center">
-    <img src="https://github.com/ParthSheladiya97/Hospitality_Analysis_PowerBI/blob/main/Resources/Monthly%20Analysis.png" width="700">
+    <img src="https://github.com/ParthSheladiya97/Hospitality_Analysis_PowerBI/blob/main/Resources/Monthly_Analysis_view.png" width="700">
 </p>
 
 ## Weekly Analysis
 <p align="center">
-    <img src="https://github.com/ParthSheladiya97/Hospitality_Analysis_PowerBI/blob/main/Resources/Weekly%20Analysis.png" width="700">
+    <img src="https://github.com/ParthSheladiya97/Hospitality_Analysis_PowerBI/blob/main/Resources/Weekly_Analysis_view.png" width="700">
 </p>
 
 ## Learned things from the Project
