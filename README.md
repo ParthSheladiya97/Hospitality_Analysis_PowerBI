@@ -43,13 +43,13 @@ You are a data analyst who has been provided with sample data and a mock-up dash
  By referring different cancellation polices followed by different hotels, understood that most of the hotels charge zero fee, only if the booking is cancelled before three months of booking date. If the booking is cancelled after that, the charge range from 60 to 90% of the booking cost.
  
  - **Utilizing Bookmarks and Selections:**
- Learnt, how to use bookmarks and selection for different purposes. (Page navigation and clear filter button in the dashboard was achieved using bookmarks and selection. website like page navigation
+ Learnt, how to use bookmarks and selection for different purposes. (Page navigation and clear filter button in the dashboard was achieved using bookmarks and selection. website like page navigation ([Youtube link](https://www.youtube.com/watch?v=xCSYLrcLW00))
  
  - **Consistent Use of Color Palette:**
- Tried using color palette and stick with that colors throughout the dashboard
+ Tried using color palette and stick with that colors throughout the dashboard ([Colour Palette link](https://colorhunt.co/palette/454545ff6000ffa559ffe6c7))
  
  - **Exploring New Card Visuals:**
- I explored and implemented new card visuals in Power BI to display key metrics more effectively.
+ Explored and implemented new card visuals in Power BI to display key metrics more effectively.([Youtube link](https://www.youtube.com/watch?v=Moxktpv4z7E))
 
  ## Some Important insights from the Dashboard
 - Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
