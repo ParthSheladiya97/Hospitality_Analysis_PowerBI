@@ -12,9 +12,44 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ## Provided Mock-Up Dashboard
 <p align="center">
-    <img src="https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/Dataset/mock%20up%20dashboard_atliq%20grands.png" width="600">
+    <img src="https://github.com/ParthSheladiya97/Hospitality_Analysis_PowerBI/blob/main/Dataset/mock%20up%20dashboard_atliq%20grands.png" width="700">
 </p>
-   
+
+## Data Model
+<p align="center">
+    <img src="https://github.com/ParthSheladiya97/Hospitality_Analysis_PowerBI/blob/main/Resources/data_model.png" width="700">
+</p>
+
+## Overall Analysis
+<p align="center">
+    <img src="https://github.com/ParthSheladiya97/Hospitality_Analysis_PowerBI/blob/main/Resources/Overall%20Analysis.png" width="700">
+</p>
+
+## Monthly Analysis
+<p align="center">
+    <img src="https://github.com/ParthSheladiya97/Hospitality_Analysis_PowerBI/blob/main/Resources/Monthly%20Analysis.png" width="700">
+</p>
+
+## Weekly Analysis
+<p align="center">
+    <img src="https://github.com/ParthSheladiya97/Hospitality_Analysis_PowerBI/blob/main/Resources/Weekly%20Analysis.png" width="700">
+</p>
+
+## Learned thnigs from the Project
+ #### 1. Calendar Visual Using Matrix Table
+     Learnt to build a new visual (Calendar visual) using matrix table, which can be utilized for different purpose of analyze.
+ #### 2. Understanding Hotel Cancellation Policies
+     By referring different cancellation polices followed by different hotels, understood that most of the hotels charge zero fee, only if the booking is cancelled before three months of booking date. If the booking is cancelled after that, the charge range from 60 to 90% of the booking cost.
+ #### 3. Utilizing Bookmarks and Selections
+     Learnt, how to use bookmarks and selection for different purposes. (Page navigation and clear filter button in the dashboard was achieved using bookmarks and selection. website like page navigation
+ #### 4. Consistent Use of Color Palette
+   Tried using color palette and stick with that colors throughout the dashboard
+ #### 5. Exploring New Card Visuals
+   I explored and implemented new card visuals in Power BI to display key metrics more effectively.
+         
+ 
+
+
 
 
 
