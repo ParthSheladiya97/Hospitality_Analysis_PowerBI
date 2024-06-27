@@ -1,5 +1,5 @@
 # AtliQ-Hospitality-Analysis
-Link to Live [Interactive Dashborad](https://www.novypro.com/profile_projects/parth-sheladiya-1?Popup=memberProject&Data=1719526402261x738100328430485600)
+Link to Live [Interactive Dashborad](https://app.powerbi.com/view?r=eyJrIjoiY2VjZWY1ZGQtZjU3YS00NzRlLWFkZDktMDcxNDA5YzQyY2QxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection)
 
  ## Problem Statment:
 AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
